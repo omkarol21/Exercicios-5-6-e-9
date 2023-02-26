@@ -1,0 +1,40 @@
+@media screen and (max-width: 880px){
+    #vermelho{
+        height: 1454px;
+    }
+
+    #corpo #texto1 {
+        font-size: 26px;
+        height: 80px;
+        width: 650px;
+    }
+
+    
+#corpo #textos #texto2 {
+    font-size: 54px;
+    height: 80px;
+    width: 650px;
+}
+
+#corpo #textos #texto3 {
+    font-size: 54px;
+    height: 80px;
+    width: 450px;
+}
+
+#corpo #textos #texto4 {
+    font-size: 79px;
+    height: 80px;
+    width: 650px;
+}
+}
+
+@media screen and (max-width: 345px){
+    #corpo #textos #texto5 {
+        width: 590px;
+    }
+
+    #vermelho{
+        height: 2200px;
+    }
+}

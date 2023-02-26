@@ -1,0 +1,19 @@
+@media screen and (max-width: 870px){
+    body #circulo {
+        margin: 362px 285px 362px 285px;
+        height: 150px;
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    body #circulo{
+        margin: 362px 150px 362px 150px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    body #circulo{
+        margin: 362px 85px 362px 85px;
+    }
+}

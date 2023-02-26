@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    border: 0px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+body main #ImagemArredondada{
+    border: 19px solid black;
+    border-radius: 240px;
+    margin: 69px 0px 69px;
+}
+
+body main #Imagem{
+    margin: 0px 0px 91px;
+}

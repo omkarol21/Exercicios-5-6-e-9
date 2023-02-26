@@ -1,0 +1,36 @@
+@media screen and (max-width: 800px){
+    #ImagemArredondada{
+        height: 250px;
+        width: 400px;
+    }
+
+    #Imagem{
+        height: 250px;
+        width: 400px; 
+    }
+
+}
+
+@media screen and (max-width: 600px){
+    #ImagemArredondada{
+        height: 200px;
+        width: 300px;
+    }
+
+    #Imagem{
+        height: 200px;
+        width: 300px; 
+    }
+}
+
+@media screen and (max-width: 460px){
+    #ImagemArredondada{
+        height: 100px;
+        width: 200px;
+    }
+
+    #Imagem{
+        height: 100px;
+        width: 200px; 
+    }
+}
